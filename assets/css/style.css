@@ -83,13 +83,13 @@ h4 {
 
 .btn-fill {
     color: #fff;
-    background-color:blue;
+    background-color:black;
 }
 
 .btn-border {
     background-color: transparent;
-    color: blue;
-    border: 1px solid blue; 
+    color: black;
+    border: 1px solid black; 
 }
 
 .btn-fill:hover,
@@ -106,7 +106,7 @@ h4 {
 .form-control {
     padding-left: 10px;
     border: 0;
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid black;
     border-radius: 0;
     background-color: transparent; 
     box-shadow: none;
@@ -139,7 +139,7 @@ html, body {
     padding: 0;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    color: blue;
+    color: black;
 }
 
 .img-res {
@@ -178,7 +178,7 @@ html, body {
 .navbar-nav > li > a {
     padding: 5px 0;
     font-weight: 600;
-    color: blue;
+    color: black;
     text-transform: uppercase;
     border-bottom: 2px solid transparent;
     transition: border-color 0.25s ease-in-out;
